@@ -1,0 +1,349 @@
+items:
+- name: Baguette Haircut (Gustave)
+  save_key: FaceGustave_Baguette
+  category: Hair.Gustave
+  type: int
+- name: Bald Haircut (Gustave)
+  save_key: FaceGustave_Bald
+  category: Hair.Gustave
+  type: int
+- name: Bun Haircut (Gustave)
+  save_key: FaceGustave_Default
+  category: Hair.Gustave
+  type: int
+- name: Charming Haircut (Gustave)
+  save_key: FaceGustave_Charming
+  category: Hair.Gustave
+  type: int
+- name: Curly Haircut (Gustave)
+  save_key: FaceGustave_Curly
+  category: Hair.Gustave
+  type: int
+- name: Expedition White Haircut (Gustave)
+  save_key: FaceGustave_Default_WhiteVersion
+  category: Hair.Gustave
+  type: int
+- name: Flowers Haircut (Gustave)
+  save_key: FaceGustave_Flowers
+  category: Hair.Gustave
+  type: int
+- name: Gestral Haircut (Gustave)
+  save_key: FaceGustave_Gestral
+  category: Hair.Gustave
+  type: int
+- name: Noah Haircut (Gustave)
+  save_key: FaceGustave_Noah
+  category: Hair.Gustave
+  type: int
+- name: Renoir Haircut (Gustave)
+  save_key: FaceGustave_Renoir
+  category: Hair.Gustave
+  type: int
+- name: Artist Haircut (Lune)
+  save_key: FaceLune_Artist_s_One
+  category: Hair.Lune
+  type: int
+- name: Baguette Haircut (Lune)
+  save_key: FaceLune_Baguette
+  category: Hair.Lune
+  type: int
+- name: Bald Haircut (Lune)
+  save_key: FaceLune_Bald
+  category: Hair.Lune
+  type: int
+- name: Braid Haircut (Lune)
+  save_key: FaceLune_Braid
+  category: Hair.Lune
+  type: int
+- name: Clea Haircut (Lune)
+  save_key: FaceLune_Clea
+  category: Hair.Lune
+  type: int
+- name: Lune Haircut (Lune)
+  save_key: FaceLune_Default
+  category: Hair.Lune
+  type: int
+- name: Double Braid Haircut (Lune)
+  save_key: FaceLune_DoubleBraid
+  category: Hair.Lune
+  type: int
+- name: Flowers Haircut (Lune)
+  save_key: FaceLune_Flowers
+  category: Hair.Lune
+  type: int
+- name: French Bob Haircut (Lune)
+  save_key: FaceLune_Frenchbob
+  category: Hair.Lune
+  type: int
+- name: Gestral Haircut (Lune)
+  save_key: FaceLune_Gestral
+  category: Hair.Lune
+  type: int
+- name: Messy Bun Haircut (Lune)
+  save_key: FaceLune_MessyBun
+  category: Hair.Lune
+  type: int
+- name: Half Ponytail Haircut (Lune)
+  save_key: FaceLune_HalfPonytail
+  category: Hair.Lune
+  type: int
+- name: Ponytail Haircut (Lune)
+  save_key: FaceLune_Ponytail
+  category: Hair.Lune
+  type: int
+- name: Rebellious White Haircut (Lune)
+  save_key: FaceLune_Default_WhiteVer
+  category: Hair.Lune
+  type: int
+- name: Short Haircut (Lune)
+  save_key: FaceLune_Short
+  category: Hair.Lune
+  type: int
+- name: Sirene Haircut (Lune)
+  save_key: FaceLune_Sirene
+  category: Hair.Lune
+  type: int
+- name: Wavy Haircut (Lune)
+  save_key: FaceLune_Wavy
+  category: Hair.Lune
+  type: int
+# - name: Vintage Haircut (Lune) save_key NOT SET DONT USE!!
+  # save_key: AutoGen_Vintage_Haircut_Lune
+  # category: Hair.Lune
+  # type: int
+- name: Voluminous Haircut (Lune)
+  save_key: FaceLune_Voluminous
+  category: Hair.Lune
+  type: int
+- name: Artist Haircut (Maelle)
+  save_key: FaceMaelle_Artist_s_One
+  category: Hair.Maelle
+  type: int
+- name: Baguette Haircut (Maelle)
+  save_key: FaceMaelle_Baguette
+  category: Hair.Maelle
+  type: int
+- name: Bald Haircut (Maelle)
+  save_key: FaceMaelle_Bald
+  category: Hair.Maelle
+  type: int
+- name: Braid Haircut (Maelle)
+  save_key: FaceMaelle_Braid
+  category: Hair.Maelle
+  type: int
+- name: Clea Haircut (Maelle)
+  save_key: FaceMaelle_Clea
+  category: Hair.Maelle
+  type: int
+#- name: Maelle Haircut (Maelle)
+#  save_key: AutoGen_Maelle_Haircut_Maelle
+#  category: Hair.Maelle
+#  type: int
+- name: Double Braid Haircut (Maelle)
+  save_key: FaceMaelle_DoubleBraid
+  category: Hair.Maelle
+  type: int
+- name: Double Braid White Haircut (Maelle)
+  save_key: FaceMaelle_DoubleBraid_WhiteVersion
+  category: Hair.Maelle
+  type: int
+- name: Flowers Haircut (Maelle)
+  save_key: FaceMaelle_Flowers
+  category: Hair.Maelle
+  type: int
+- name: French Bob Haircut (Maelle)
+  save_key: FaceMaelle_FrenchBob
+  category: Hair.Maelle
+  type: int
+- name: Gestral Haircut (Maelle)
+  save_key: FaceMaelle_Gestral
+  category: Hair.Maelle
+  type: int
+- name: Gestral White Haircut (Maelle)
+  save_key: FaceMaelle_Gestral_WhiteVersion
+  category: Hair.Maelle
+  type: int
+- name: Messy Bun Haircut (Maelle)
+  save_key: FaceMaelle_MessyBun
+  category: Hair.Maelle
+  type: int
+#- name: Painted Me Haircut (Maelle)
+#  save_key: AutoGen_Painted_Me_Haircut_Maelle
+#  category: Hair.Maelle
+#  type: int
+- name: Ponytail Haircut (Maelle)
+  save_key: FaceMaelle_Ponytail
+  category: Hair.Maelle
+  type: int
+- name: Real Maelle Haircut (Maelle)
+  save_key: FaceMaelle_Default
+  category: Hair.Maelle
+  type: int
+- name: Rebellious Haircut (Maelle)
+  save_key: FaceMaelle_Rebellious
+  category: Hair.Maelle
+  type: int
+- name: Short Haircut (Maelle)
+  save_key: FaceMaelle_Short
+  category: Hair.Maelle
+  type: int
+- name: Short White Haircut (Maelle)
+  save_key: FaceMaelle_Short_WhiteVersion
+  category: Hair.Maelle
+  type: int
+- name: Vintage Haircut (Maelle)
+  save_key: FaceMaelle_Vintage
+  category: Hair.Maelle
+  type: int
+- name: Voluminous Haircut (Maelle)
+  save_key: FaceMaelle_Voluminous
+  category: Hair.Maelle
+  type: int
+- name: ActeIII Haircut (Maelle)
+  save_key: FaceMaelle_ActeIII
+  category: Hair.Maelle
+  type: int
+- name: Alicia Haircut (Maelle)
+  save_key: FaceMaelle_Alicia
+  category: Hair.Maelle
+  type: int
+- name: Default WhiteVersion Haircut (Maelle)
+  save_key: FaceMaelle_Default_WhiteVersion
+  category: Hair.Maelle
+  type: int
+- name: Bald Haircut (Monoco)
+  save_key: FaceMonoco_Bald
+  category: Hair.Monoco
+  type: int
+- name: Flowers Haircut (Monoco)
+  save_key: FaceMonoco_Flowers
+  category: Hair.Monoco
+  type: int
+- name: Monoco Haircut (Monoco)
+  save_key: FaceMonoco_Default
+  category: Hair.Monoco
+  type: int
+- name: Pure Haircut (Monoco)
+  save_key: FaceMonoco_Pure
+  category: Hair.Monoco
+  type: int
+- name: Viking Haircut (Monoco)
+  save_key: FaceMonoco_Viking
+  category: Hair.Monoco
+  type: int
+- name: Artist Haircut (Sciel)
+  save_key: FaceSciel_Artist_s_One
+  category: Hair.Sciel
+  type: int
+- name: Baguette Haircut (Sciel)
+  save_key: FaceSciel_Baguette
+  category: Hair.Sciel
+  type: int
+- name: Bald Haircut (Sciel)
+  save_key: FaceSciel_Bald
+  category: Hair.Sciel
+  type: int
+- name: Braid Haircut (Sciel)
+  save_key: FaceSciel_Braid
+  category: Hair.Sciel
+  type: int
+- name: Clea Haircut (Sciel)
+  save_key: FaceSciel_Clea
+  category: Hair.Sciel
+  type: int
+- name: Double Braid Haircut (Sciel)
+  save_key: FaceSciel_DoubleBraid
+  category: Hair.Sciel
+  type: int
+- name: Flowers Haircut (Sciel)
+  save_key: FaceSciel_Flowers
+  category: Hair.Sciel
+  type: int
+- name: French Bob Haircut (Sciel)
+  save_key: FaceSciel_FrenchBob
+  category: Hair.Sciel
+  type: int
+- name: Gestral Haircut (Sciel)
+  save_key: FaceSciel_Gestral
+  category: Hair.Sciel
+  type: int
+- name: Messy Bun White Haircut (Sciel)
+  save_key: FaceSciel_Default_WhiteVersion
+  category: Hair.Sciel
+  type: int
+- name: Plunging Bobg Haircut (Sciel)
+  save_key: FaceSciel_OldConcept
+  category: Hair.Sciel
+  type: int
+- name: Ponytail Haircut (Sciel)
+  save_key: FaceSciel_Ponytail
+  category: Hair.Sciel
+  type: int
+- name: Rebellious Haircut (Sciel)
+  save_key: FaceSciel_Rebellious
+  category: Hair.Sciel
+  type: int
+- name: Sciel Haircut (Sciel)
+  save_key: FaceSciel_Default
+  category: Hair.Sciel
+  type: int
+- name: Short Curly Haircut (Sciel)
+  save_key: FaceSciel_CurlyShort
+  category: Hair.Sciel
+  type: int
+- name: Short Haircut (Sciel)
+  save_key: FaceSciel_Short
+  category: Hair.Sciel
+  type: int
+- name: Vintage Haircut (Sciel)
+  save_key: FaceSciel_Vintage
+  category: Hair.Sciel
+  type: int
+- name: Voluminous Haircut (Sciel)
+  save_key: FaceSciel_Voluminous
+  category: Hair.Sciel
+  type: int
+- name: Baguette Haircut (Verso)
+  save_key: FaceVerso_Baguette
+  category: Hair.Verso
+  type: int
+- name: Bald Haircut (Verso)
+  save_key: FaceVerso_Bald
+  category: Hair.Verso
+  type: int
+- name: Bun Haircut (Verso)
+  save_key: FaceVerso_bun
+  category: Hair.Verso
+  type: int
+- name: Curly Haircut (Verso)
+  save_key: FaceVerso_Curly
+  category: Hair.Verso
+  type: int
+- name: Expedition White Haircut (Verso)
+  save_key: FaceVerso_Default_WhiteVersion
+  category: Hair.Verso
+  type: int
+- name: Flowers Haircut (Verso)
+  save_key: FaceVerso_Flowers
+  category: Hair.Verso
+  type: int
+- name: Gestral Haircut (Verso)
+  save_key: FaceVerso_Gestral
+  category: Hair.Verso
+  type: int
+- name: Gustave's Haircut (Verso)
+  save_key: FaceVerso_Handsome
+  category: Hair.Verso
+  type: int
+- name: Renoir Haircut (Verso)
+  save_key: FaceVerso_Renoir
+  category: Hair.Verso
+  type: int
+- name: Samurai Haircut (Verso)
+  save_key: FaceVerso_Samourai
+  category: Hair.Verso
+  type: int
+- name: Verso Haircut (Verso)
+  save_key: FaceVerso_Default
+  category: Hair.Verso
+  type: int

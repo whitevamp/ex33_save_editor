@@ -1,0 +1,50 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="SaveEditorApp.MainWindow"
+        Title="EX33 Save Editor" Width="1000" Height="700">
+  <DockPanel>
+    <Menu DockPanel.Dock="Top">
+      <MenuItem Header="File">
+        <MenuItem Header="Open Save" Name="OpenSaveMenuItem" />
+        <MenuItem Header="Export Save" Name="ExportSaveMenuItem" />
+        <MenuItem Header="Exit" Name="ExitMenuItem" />
+      </MenuItem>
+      <!--<MenuItem Header="Items View" />-->
+      <MenuItem Header="Settings">
+        <MenuItem Header="Dark Mode" />
+        <MenuItem Header="Light Mode" />
+        <MenuItem Header="System Default" />
+      </MenuItem>
+    </Menu>
+
+    <Grid>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="2*" />
+        <ColumnDefinition Width="6" />
+        <ColumnDefinition Width="5*" />
+      </Grid.ColumnDefinitions>
+
+      <!--<TreeView x:Name="TreeNav" Grid.Column="0" Margin="5">
+        <TreeViewItem Header="Pictos">
+          <TreeViewItem Header="Basic" />
+          <TreeViewItem Header="Rare" />
+        </TreeViewItem>
+        <TreeViewItem Header="Tints">
+          <TreeViewItem Header="Shards" />
+          <TreeViewItem Header="Shapes" />
+        </TreeViewItem>
+      </TreeView>-->
+      <TreeView x:Name="TreeNav" Grid.Column="0" Margin="5">
+  
+      </TreeView>
+
+      <GridSplitter Grid.Column="1" Width="6" HorizontalAlignment="Stretch" Background="Gray" />
+
+      <ScrollViewer Grid.Column="2" Margin="10">
+        <StackPanel>
+          <TextBlock Text="Item details will go here." FontSize="16" />
+        </StackPanel>
+      </ScrollViewer>
+    </Grid>
+  </DockPanel>
+</Window>

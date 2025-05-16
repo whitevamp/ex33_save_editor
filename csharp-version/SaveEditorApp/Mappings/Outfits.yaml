@@ -1,0 +1,314 @@
+items:
+- name: Baguette Outfit (Gustave)
+  save_key: SkinGustave_Baguette
+  category: Outfits.Gustave
+  type: int
+- name: Civilian Outfit (Gustave)
+  save_key: SkinGustave_Civil
+  category: Outfits.Gustave
+  type: int
+- name: Clair Outfit (Gustave)
+  save_key: SkinGustave_Clair
+  category: Outfits.Gustave
+  type: int
+- name: Crimson Uniform Outfit (Gustave)
+  save_key: SkinGustave_Default_Red
+  category: Outfits.Gustave
+  type: int
+- name: Expedition Outfit (Gustave)
+  save_key: SkinGustave_Default
+  category: Outfits.Gustave
+  type: int
+- name: Flowers Suit Outfit (Gustave)
+  save_key: SkinGustave_FlowerSuit
+  category: Outfits.Gustave
+  type: int
+- name: Gommage Outfit (Gustave)
+  save_key: SkinGustave_Gommage
+  category: Outfits.Gustave
+  type: int
+- name: Lumiere Suit Outfit (Gustave)
+  save_key: SkinGustave_LumiereSuit
+  category: Outfits.Gustave
+  type: int
+- name: Obscur Outfit (Gustave)
+  save_key: SkinGustave_Obscur
+  category: Outfits.Gustave
+  type: int
+- name: Pure Outfit (Gustave)
+  save_key: SkinGustave_Pure
+  category: Outfits.Gustave
+  type: int
+# maby wrong.
+- name: Renoir Outfit (Gustave)
+  save_key: SkinGustave_MirrorRenoir
+  category: Outfits.Gustave
+  type: int
+- name: Renoir's Suit Outfit (Gustave)
+  save_key: SkinGustave_RealRenoir
+  category: Outfits.Gustave
+  type: int
+- name: Sakapatate Outfit (Gustave)
+  save_key: SkinGustave_Potatoe_Bag 
+  category: Outfits.Gustave
+  type: int
+- name: Swimsuit Outfit (Gustave)
+  save_key: SkinGustave_Bikini
+  category: Outfits.Gustave
+  type: int
+- name: Baguette Outfit (Lune)
+  save_key: SkinLune_Baguette
+  category: Outfits.Lune
+  type: int
+- name: Civilian Outfit (Lune)
+  save_key: SkinLune_Civil
+  category: Outfits.Lune
+  type: int
+- name: Clea Outfit (Lune)
+  save_key: SkinLune_Clea
+  category: Outfits.Lune
+  type: int
+- name: Danseuse Outfit (Lune)
+  save_key: SkinLune_Danseuse
+  category: Outfits.Lune
+  type: int
+- name: Expedition Outfit (Lune)
+  save_key: SkinLune_Default
+  category: Outfits.Lune
+  type: int
+- name: Flowers Suit Outfit (Lune)
+  save_key: SkinLune_FlowerSuit
+  category: Outfits.Lune
+  type: int
+- name: Gommage Outfit (Lune)
+  save_key: SkinLune_Gommage
+  category: Outfits.Lune
+  type: int
+- name: Pure Outfit (Lune)
+  save_key: SkinLune_Pure
+  category: Outfits.Lune
+  type: int
+- name: Sakapatate Outfit (Lune)
+  save_key: SkinLune_Potatoe_Bag
+  category: Outfits.Lune
+  type: int
+- name: Sirene Outfit (Lune)
+  save_key: SkinLune_Sirene
+  category: Outfits.Lune
+  type: int
+- name: Skirt Outfit (Lune)
+  save_key: SkinLune_CivilianSkirt
+  category: Outfits.Lune
+  type: int
+- name: Swimsuit 1 Outfit (Lune)
+  save_key: SkinLune_BikiniA
+  category: Outfits.Lune
+  type: int
+- name: Swimsuit 2 Outfit (Lune)
+  save_key: SkinLune_BikiniB
+  category: Outfits.Lune
+  type: int
+- name: Alicia Outfit (Maelle)
+  save_key: SkinMaelle_Alicia
+  category: Outfits.Maelle
+  type: int
+- name: Baguette Outfit (Maelle)
+  save_key: SkinMaelle_Baguette
+  category: Outfits.Maelle
+  type: int
+- name: Civilian Outfit (Maelle)
+  save_key: SkinMaelle_CivilianLumiere
+  category: Outfits.Maelle
+  type: int
+- name: Clair Outfit (Maelle)
+  save_key: SkinMaelle_Clair
+  category: Outfits.Maelle
+  type: int
+- name: Clea Outfit (Maelle)
+  save_key: SkinMaelle_Clea
+  category: Outfits.Maelle
+  type: int
+- name: Expedition Outfit (Maelle)
+  save_key: SkinMaelle_Default
+  category: Outfits.Maelle
+  type: int
+- name: Flowers Suit Outfit (Maelle)
+  save_key: SkinMaelle_FlowerSuit
+  category: Outfits.Maelle
+  type: int
+- name: Gommage Outfit (Maelle)
+  save_key: SkinMaelle_Gommage
+  category: Outfits.Maelle
+  type: int
+- name: Lumiere Outfit (Maelle)
+  save_key: SkinMaelle_Lumiere
+  category: Outfits.Maelle
+  type: int
+- name: Obscur Outfit (Maelle)
+  save_key: SkinMaelle_Obscur
+  category: Outfits.Maelle
+  type: int
+- name: Painted Me Outfit (Maelle)
+  save_key: SkinMaelle_ActeIII
+  category: Outfits.Maelle
+  type: int
+- name: Pure Outfit (Maelle)
+  save_key: SkinMaelle_Pure
+  category: Outfits.Maelle
+  type: int
+- name: Sakapatate Outfit (Maelle)
+  save_key: SkinMaelle_Potatoe_Bag
+  category: Outfits.Maelle
+  type: int
+- name: Skirt Outfit (Maelle)
+  save_key: SkinMaelle_CivilianSkirt
+  category: Outfits.Maelle
+  type: int
+- name: Swimsuit Outfit (Maelle)
+  save_key: SkinMaelle_Bikini
+  category: Outfits.Maelle
+  type: int
+- name: Civilian Outfit (Monoco)
+  save_key: SkinMonoco_Civilian
+  category: Outfits.Monoco
+  type: int
+- name: Expedition Outfit (Monoco)
+  save_key: SkinMonoco_Default
+  category: Outfits.Monoco
+  type: int
+- name: Flowers Suit Outfit (Monoco)
+  save_key: SkinMonoco_FlowerSuit
+  category: Outfits.Monoco
+  type: int
+- name: Gommage Outfit (Monoco)
+  save_key: SkinMonoco_Gommage
+  category: Outfits.Monoco
+  type: int
+- name: Lumiere Outfit (Monoco)
+  save_key: SkinMonoco_Lumiere
+  category: Outfits.Monoco
+  type: int
+- name: Pure Outfit (Monoco)
+  save_key: SkinMonoco_Pure
+  category: Outfits.Monoco
+  type: int
+- name: Swimsuit Outfit (Monoco)
+  save_key: SkinMonoco_Bikini
+  category: Outfits.Monoco
+  type: int
+- name: Baguette Outfit (Sciel)
+  save_key: SkinSciel_Baguette
+  category: Outfits.Sciel
+  type: int
+- name: Civilian Outfit (Sciel)
+  save_key: SkinSciel_Civil
+  category: Outfits.Sciel
+  type: int
+- name: Clea Outfit (Sciel)
+  save_key: SkinSciel_Clea
+  category: Outfits.Sciel
+  type: int
+- name: Danseuse Outfit (Sciel)
+  save_key: SkinSciel_Danseuse
+  category: Outfits.Sciel
+  type: int
+- name: Expedition Outfit (Sciel)
+  save_key: SkinSciel_Default
+  category: Outfits.Sciel
+  type: int
+- name: Flowers Suit Outfit (Sciel)
+  save_key: SkinSciel_FlowerSuit
+  category: Outfits.Sciel
+  type: int
+- name: Gommage Outfit (Sciel)
+  save_key: SkinSciel_Gommage
+  category: Outfits.Sciel
+  type: int
+- name: Pure Outfit (Sciel)
+  save_key: SkinSciel_Pure
+  category: Outfits.Sciel
+  type: int
+- name: Sakapatate Outfit (Sciel)
+  save_key: SkinSciel_Potatoe_Bag
+  category: Outfits.Sciel
+  type: int
+- name: Sirene Outfit (Sciel)
+  save_key: SkinSciel_Sirene
+  category: Outfits.Sciel
+  type: int
+- name: Skirt Outfit (Sciel)
+  save_key: SkinSciel_CivilianSkirt
+  category: Outfits.Sciel
+  type: int
+- name: Swimsuit 1 Outfit (Sciel)
+  save_key: SkinSciel_BikiniA
+  category: Outfits.Sciel
+  type: int
+- name: Swimsuit 2 Outfit (Sciel)
+  save_key: SkinSciel_BikiniB
+  category: Outfits.Sciel
+  type: int
+- name: Baguette Outfit (Verso)
+  save_key: SkinVerso_Baguette
+  category: Outfits.Verso
+  type: int
+- name: Civilian Outfit (Verso)
+  save_key: SkinVerso_Civil
+  category: Outfits.Verso
+  type: int
+- name: Clair Outfit (Verso)
+  save_key: SkinVerso_Clair
+  category: Outfits.Verso
+  type: int
+- name: Expedition Outfit (Verso)
+  save_key: SkinVerso_Default
+  category: Outfits.Verso
+  type: int
+- name: Flowers Suit Outfit (Verso)
+  save_key: SkinVerso_FlowerSuit
+  category: Outfits.Verso
+  type: int
+- name: Gommage Outfit (Verso)
+  save_key: SkinVerso_Gommage
+  category: Outfits.Verso
+  type: int
+- name: Obscur Outfit (Verso)
+  save_key: SkinVerso_Obscur
+  category: Outfits.Verso
+  type: int
+- name: Perelin Outfit (Verso)
+  save_key: SkinVerso_Pelerin
+  category: Outfits.Verso
+  type: int
+- name: Pure Outfit (Verso)
+  save_key: SkinVerso_Pure
+  category: Outfits.Verso
+  type: int
+- name: Renoir Outfit (Verso)
+  save_key: SkinVerso_Mirror
+  category: Outfits.Verso
+  type: int
+- name: Renoir's Suit Outfit (Verso)
+  save_key: SkinVerso_RealRenoir
+  category: Outfits.Verso
+  type: int
+- name: Sakapatate Outfit (Verso)
+  save_key: SkinVerso_Potatoe_Bag
+  category: Outfits.Verso
+  type: int
+- name: Simple Outfit (Verso)
+  save_key: SkinVerso_Simple
+  category: Outfits.Verso
+  type: int
+- name: Swimsuit 1 Outfit (Verso)
+  save_key: SkinVerso_BikiniA
+  category: Outfits.Verso
+  type: int
+- name: Swimsuit 2 Outfit (Verso)
+  save_key: SkinVerso_BikiniB
+  category: Outfits.Verso
+  type: int
+- name: NoArmBand Outfit (Verso)
+  save_key: SkinVerso_NoArmBand
+  category: Outfits.Verso
+  type: int

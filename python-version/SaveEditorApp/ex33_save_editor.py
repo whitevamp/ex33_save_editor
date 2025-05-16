@@ -80,14 +80,13 @@ class EX33SaveEditor(ctk.CTk):
         # bg_img.putalpha(100)  # 0 = invisible, 255 = opaque
         # self.bg_image = ctk.CTkImage(light_image=bg_img, size=(474, 200))
         
-        ##1
-        #original_img = Image.open("th-903132539.jpg").convert("RGBA")
+        original_img = Image.open("th-903132539.jpg").convert("RGBA")
 
         # Use ImageOps.pad to maintain aspect ratio and fill to target size (centered, no squashing)
-        # bg_img = ImageOps.pad(original_img, (960, 500), method=Image.BICUBIC, color=(0, 0, 0, 0))  # transparent padding
-        # bg_img.putalpha(100)  # adjust transparency as needed (0–255)
+        bg_img = ImageOps.pad(original_img, (960, 500), method=Image.BICUBIC, color=(0, 0, 0, 0))  # transparent padding
+        bg_img.putalpha(100)  # adjust transparency as needed (0–255)
 
-        # self.bg_image = ctk.CTkImage(light_image=bg_img, size=(960, 500))
+        self.bg_image = ctk.CTkImage(light_image=bg_img, size=(960, 500))
         
 
         ##
@@ -226,8 +225,8 @@ class EX33SaveEditor(ctk.CTk):
         background_container.pack(fill="both", expand=True, padx=10, pady=10)
 
         # Background image label
-        # bg_label = ctk.CTkLabel(background_container, text="", image=self.bg_image)
-        # bg_label.place(relx=0.5, rely=0.5, anchor="center")
+        bg_label = ctk.CTkLabel(background_container, text="", image=self.bg_image)
+        bg_label.place(relx=0.5, rely=0.5, anchor="center")
 
         # Scroll frame that overlays the image
         self.scroll_frame = ctk.CTkScrollableFrame(master=background_container, width=960, height=500, fg_color="transparent") # Let background show through )
@@ -298,7 +297,7 @@ class EX33SaveEditor(ctk.CTk):
                 # label.configure(text_color="yellow")
             # label.pack()
             # ctk.CTkEntry(self.scroll_frame, textvariable=self.input_vars[key]).pack(fill="x", padx=10)
-            label = ctk.CTkLabel(self.scroll_frame, text=item["name"], text_color="white") #, image=self.bg_image)
+            label = ctk.CTkLabel(self.scroll_frame, text=item["name"], text_color="white", image=self.bg_image)
             label.place(x=0, y=0, relwidth=1, relheight=1)
             if self.search_highlight.get() and search_term in item["name"].lower():
                 label.configure(text_color="yellow")

@@ -1,0 +1,126 @@
+items:
+# - name: Big Healing Tint
+#   save_key: BigHealingTint
+#   category: tints.tints
+#   type: int
+# - name: Chroma
+#   save_key: Chroma
+#   category: tints.tints
+#   type: int
+# - name: Chroma Pack Extra Large
+#   save_key: ChromaPack_ExtraLarge
+#   category: tints.tints
+#   type: int
+# - name: Chroma Pack Large
+#   save_key: ChromaPack_Large
+#   category: tints.tints
+#   type: int
+# - name: Chroma Pack Regular
+#   save_key: ChromaPack_Regular
+#   category: tints.tints
+#   type: int
+# - name: Fire Coat
+#   save_key: FireCoat
+#   category: tints.tints
+#   type: int
+# - name: Great Healing Tint
+#   save_key: GreatHealingTint
+#   category: tints.tints
+#   type: int
+  ## start adding here.
+- name: Chroma Pack ExtraLarge
+  save_key: ChromaPack_ExtraLarge
+  category: Tints.Chroma Pack
+  type: int
+- name: Chroma Pack Large
+  save_key: ChromaPack_Large
+  category: Tints.Chroma Pack
+  type: int
+- name: Chroma Pack Regular
+  save_key: ChromaPack_Regular
+  category: Tints.Chroma Pack
+- name: |
+    Chroma Elixir Shard. 
+    Finding a Chroma Elixir Shard adds +1 charge to
+    increase the number of usage that the expedition can use.
+    Finding this shard will automatically add +1 charge to the Chroma Elixir.
+  save_key: PartyHealShard
+  category: Tints.Shards
+  type: int
+- name: |
+    Energy Tint Shard.
+    Finding an Energy Tint Shard adds +1 charge to increase the number of usages that the expedition can consume an Energy Tint in combat. 
+    Finding this shard will automatically add +1 charge to the Energy Tint.
+  save_key: EnergyTint_Shard
+  category: Tints.Shards
+  type: int
+- name: |
+    Revive Tint Shard.
+    Finding a Revive Tint Shard adds +1 charge to increase the number of usages that the expedition can consume a Revive Tint in combat. 
+    Finding this shard will automatically add +1 charge to the Revive Tint.
+  save_key: ReviveTint_Shard
+  category: Tints.Shards
+  type: int
+- name: |
+    Healing Tint Shard.
+    Finding a Healing Tint Shard adds +1 charge to increase the number of usages that the expedition can consume a Healing Tint in combat. 
+    Finding this shard will automatically add +1 charge to the Healing Tint.
+  save_key: HealingTint_Shard
+  category: Tints.Shards
+  type: int
+- name: |
+    Shape of Energy.
+    Note: The value entered here won't affect the limit - this item can only be used twice total for upgrades. 
+    Even if you add more in the save, the game will still cap usage at 2.
+    This item is used to improve the effectiveness of the Revive Tint.
+    This item is used for upgrading the Expedition's Resources by speaking to The Curator at Camp.
+  save_key: ConsumableUpgradeMaterial_AP
+  category: Tints.Shapes
+  type: int
+- name: |
+    Shape of Health.
+    Note: The value entered here won't affect the limit - this item can only be used twice total for upgrades. 
+    Even if you add more in the save, the game will still cap usage at 2.
+    This item is used to improve the effectiveness of the Healing Tint.
+    This item is used for upgrading the Expedition's Resources by speaking to The Curator at Camp.
+  save_key: ConsumableUpgradeMaterial_Health
+  category: Tints.Shapes
+  type: int
+- name: |
+    Shape of Life.
+    Note: The value entered here won't affect the limit - this item can only be used twice total for upgrades. 
+    Even if you add more in the save, the game will still cap usage at 2.
+    This item is used to improve the effectiveness of the Revive Tint.
+    This item is used for upgrading the Expedition's Resources by speaking to The Curator at Camp.
+  save_key: ConsumableUpgradeMaterial_Revive
+  category: Tints.Shapes
+  type: int
+- name: Chroma Catalyst
+  save_key: UpgradeMaterial_Level1
+  category: Tints.Weapon Upgrade Material
+  type: int
+- name: Grandiose Chroma Catalyst
+  save_key: UpgradeMaterial_Level2
+  category: Tints.Weapon Upgrade Material
+  type: int
+- name: perfect chroma catalyst
+  save_key: UpgradeMaterial_Level3
+  category: Tints.Weapon Upgrade Material
+  type: int
+- name: polished chroma catalyst
+  save_key: UpgradeMaterial_Level4
+  category: Tints.Weapon Upgrade Material
+  type: int
+- name: resplendent chroma catalyst
+  save_key: UpgradeMaterial_Level5
+  category: Tints.Weapon Upgrade Material
+  type: int
+- name: Colour of Lumina
+  save_key: Consumable_LuminaPoint
+  category: Tints.Other Tints
+  type: int
+
+- name: Recoat
+  save_key: Consumable_Respec
+  category: Tints.Other Tints
+  type: int

@@ -1,0 +1,929 @@
+items:
+- name: Aegis Revival
+  save_key: AegisRevival
+  category: pictos.pictos
+  type: int
+- name: Anti Blight
+  save_key: AntiBlight
+  category: pictos.pictos
+  type: int
+- name: Anti Burn
+  save_key: AntiBurn
+  category: pictos.pictos
+  type: int
+- name: Anti Charm
+  save_key: AntiCharm
+  category: pictos.pictos
+  type: int
+- name: Anti Stun
+  save_key: AntiStun
+  category: pictos.pictos
+  type: int
+- name: Attack
+  save_key: Attack
+  category: pictos.pictos
+  type: int
+- name: Attack Lifesteal
+  save_key: AttackLifesteal
+  category: pictos.pictos
+  type: int
+- name: Augmented Aim
+  save_key: AugmentedAim
+  category: pictos.pictos
+  type: int
+- name: Augmented Attack
+  save_key: AugmentedAttack
+  category: pictos.pictos
+  type: int
+- name: Auto Death
+  save_key: AutoDeath
+  category: pictos.pictos
+  type: int
+- name: Auto Powerful
+  save_key: AutoPowerful
+  category: pictos.pictos
+  type: int
+- name: Auto Regen
+  save_key: AutoRegen
+  category: pictos.pictos
+  type: int
+- name: Auto Rush
+  save_key: AutoRush
+  category: pictos.pictos
+  type: int
+- name: Auto Shell
+  save_key: AutoShell
+  category: pictos.pictos
+  type: int
+- name: Base Shield
+  save_key: BaseShield
+  category: pictos.pictos
+  type: int
+- name: Beneficial Contamination
+  save_key: BeneficialContamination
+  category: pictos.pictos
+  type: int
+- name: Breaker
+  save_key: Breaker
+  category: pictos.pictos
+  type: int
+- name: Breaking Attack
+  save_key: BreakingAttack
+  category: pictos.pictos
+  type: int
+- name: Breaking Counter
+  save_key: BreakingCounter
+  category: pictos.pictos
+  type: int
+- name: Breaking Death
+  save_key: BreakingDeath
+  category: pictos.pictos
+  type: int
+- name: Break Specialist
+  save_key: BreakSpecialist
+  category: pictos.pictos
+  type: int
+- name: Burn Affinity
+  save_key: BurnAffinity
+  category: pictos.pictos
+  type: int
+- name: Burning Break
+  save_key: BurningBreak
+  category: pictos.pictos
+  type: int
+- name: Burning Death
+  save_key: BurningDeath
+  category: pictos.pictos
+  type: int
+- name: Burning Mark
+  save_key: BurningMark
+  category: pictos.pictos
+  type: int
+- name: Burning Shot
+  save_key: BurningShot
+  category: pictos.pictos
+  type: int
+- name: Card Attack
+  save_key: CARD_Attack
+  category: pictos.pictos
+  type: int
+- name: Card Battle Wheel
+  save_key: CARD_BattleWheel
+  category: pictos.pictos
+  type: int
+- name: Card Boulder Break
+  save_key: CARD_BoulderBreak
+  category: pictos.pictos
+  type: int
+- name: Card Camp
+  save_key: CARD_Camp
+  category: pictos.pictos
+  type: int
+- name: Card Camping
+  save_key: CARD_Camping
+  category: pictos.pictos
+  type: int
+- name: Card Character Overview 1
+  save_key: CARD_CharacterOverview_1
+  category: pictos.pictos
+  type: int
+- name: Card Character Overview 2
+  save_key: CARD_CharacterOverview_2
+  category: pictos.pictos
+  type: int
+- name: Card Character Overview 3
+  save_key: CARD_CharacterOverview_3
+  category: pictos.pictos
+  type: int
+- name: Card Character Overview 4
+  save_key: CARD_CharacterOverview_4
+  category: pictos.pictos
+  type: int
+- name: Card Character Overview 5
+  save_key: CARD_CharacterOverview_5
+  category: pictos.pictos
+  type: int
+- name: Card Character Overview 6
+  save_key: CARD_CharacterOverview_6
+  category: pictos.pictos
+  type: int
+- name: Card Chroma Elixir
+  save_key: CARD_ChromaElixir
+  category: pictos.pictos
+  type: int
+- name: Card Curator
+  save_key: CARD_Curator
+  category: pictos.pictos
+  type: int
+- name: Card Dodge
+  save_key: CARD_Dodge
+  category: pictos.pictos
+  type: int
+- name: Card Elemental Affinities
+  save_key: CARD_ElementalAffinities
+  category: pictos.pictos
+  type: int
+- name: Card Enemy Turn
+  save_key: CARD_EnemyTurn
+  category: pictos.pictos
+  type: int
+- name: Card Esquie Car
+  save_key: CARD_EsquieCar
+  category: pictos.pictos
+  type: int
+- name: Card Expedition Resources 1
+  save_key: CARD_ExpeditionResources_1
+  category: pictos.pictos
+  type: int
+- name: Card Expedition Resources 2
+  save_key: CARD_ExpeditionResources_2
+  category: pictos.pictos
+  type: int
+- name: Card Expedition Resources 3
+  save_key: CARD_ExpeditionResources_3
+  category: pictos.pictos
+  type: int
+- name: Card Exploration Overlay Input
+  save_key: CARD_ExplorationOverlay_Input
+  category: pictos.pictos
+  type: int
+- name: Card Exploration Overlay Left
+  save_key: CARD_ExplorationOverlay_Left
+  category: pictos.pictos
+  type: int
+- name: Card Exploration Overlay Right
+  save_key: CARD_ExplorationOverlay_Right
+  category: pictos.pictos
+  type: int
+- name: Card First Parry
+  save_key: CARD_FirstParry
+  category: pictos.pictos
+  type: int
+- name: Card First Strike
+  save_key: CARD_FirstStrike
+  category: pictos.pictos
+  type: int
+- name: Card Flags
+  save_key: CARD_Flags
+  category: pictos.pictos
+  type: int
+- name: Card Flying Enemies
+  save_key: CARD_FlyingEnemies
+  category: pictos.pictos
+  type: int
+- name: Card Flying Enemies Basics
+  save_key: CARD_FlyingEnemies_Basics
+  category: pictos.pictos
+  type: int
+- name: Card Free Aim
+  save_key: CARD_FreeAim
+  category: pictos.pictos
+  type: int
+- name: Card Free Aim Shot
+  save_key: CARD_FreeAimShot
+  category: pictos.pictos
+  type: int
+- name: Card Gradient Attack
+  save_key: CARD_GradientAttack
+  category: pictos.pictos
+  type: int
+- name: Card Gradient Counter Explanation
+  save_key: CARD_GradientCounterExplanation
+  category: pictos.pictos
+  type: int
+- name: Card Gradient Counter Input
+  save_key: CARD_GradientCounterInput
+  category: pictos.pictos
+  type: int
+- name: Card Group Counter
+  save_key: CARD_GroupCounter
+  category: pictos.pictos
+  type: int
+- name: Card Gustave Overcharge
+  save_key: CARD_GustaveOvercharge
+  category: pictos.pictos
+  type: int
+- name: Card Gustave Unique Mecha
+  save_key: CARD_GustaveUniqueMecha
+  category: pictos.pictos
+  type: int
+- name: Card Gustave Unique Mecha Basics
+  save_key: CARD_GustaveUniqueMecha_Basics
+  category: pictos.pictos
+  type: int
+- name: Card Jump Counter
+  save_key: CARD_JumpCounter
+  category: pictos.pictos
+  type: int
+- name: Card Jump Explanation
+  save_key: CARD_JumpExplanation
+  category: pictos.pictos
+  type: int
+- name: Card Jump Input
+  save_key: CARD_JumpInput
+  category: pictos.pictos
+  type: int
+- name: Card Lumina
+  save_key: CARD_Lumina
+  category: pictos.pictos
+  type: int
+- name: Card Lumina Menu 1
+  save_key: CARD_LuminaMenu_1
+  category: pictos.pictos
+  type: int
+- name: Card Lumina Menu 2
+  save_key: CARD_LuminaMenu_2
+  category: pictos.pictos
+  type: int
+- name: Card Lumina Menu 3
+  save_key: CARD_LuminaMenu_3
+  category: pictos.pictos
+  type: int
+- name: Card Lumina Menu 4
+  save_key: CARD_LuminaMenu_4
+  category: pictos.pictos
+  type: int
+- name: Card Lumina Basics
+  save_key: CARD_Lumina_Basics
+  category: pictos.pictos
+  type: int
+- name: Card Lune Ice Lance Cast
+  save_key: CARD_LuneIceLanceCast
+  category: pictos.pictos
+  type: int
+- name: Card Lune Second Turn
+  save_key: CARD_LuneSecondTurn
+  category: pictos.pictos
+  type: int
+- name: Card Lune Unique Mechanic
+  save_key: CARD_LuneUniqueMechanic
+  category: pictos.pictos
+  type: int
+- name: Card Maelle Offensive Switch
+  save_key: CARD_MaelleOffensiveSwitch
+  category: pictos.pictos
+  type: int
+- name: Card Maelle Second Turn
+  save_key: CARD_MaelleSecondTurn
+  category: pictos.pictos
+  type: int
+- name: Card Maelle Spark Cast
+  save_key: CARD_MaelleSparkCast
+  category: pictos.pictos
+  type: int
+- name: Card Maelle Unique Mechanic
+  save_key: CARD_MaelleUniqueMechanic
+  category: pictos.pictos
+  type: int
+- name: Card Maelle Unique Mechanic Battle
+  save_key: CARD_MaelleUniqueMechanic_Battle
+  category: pictos.pictos
+  type: int
+- name: Card Merchants
+  save_key: CARD_Merchants
+  category: pictos.pictos
+  type: int
+- name: Card Monoco Post Tuto
+  save_key: CARD_MonocoPostTuto
+  category: pictos.pictos
+  type: int
+- name: Card Monoco Skill Learning
+  save_key: CARD_MonocoSkillLearning
+  category: pictos.pictos
+  type: int
+- name: Card Monoco Skills
+  save_key: CARD_MonocoSkills
+  category: pictos.pictos
+  type: int
+- name: Card Monoco Unique Mechanic
+  save_key: CARD_MonocoUniqueMechanic
+  category: pictos.pictos
+  type: int
+- name: Card Paint Cage
+  save_key: CARD_PaintCage
+  category: pictos.pictos
+  type: int
+- name: Card Parry Counter
+  save_key: CARD_ParryCounter
+  category: pictos.pictos
+  type: int
+- name: Card Pictos
+  save_key: CARD_Pictos
+  category: pictos.pictos
+  type: int
+- name: Card Pictos Menu 1
+  save_key: CARD_PictosMenu_1
+  category: pictos.pictos
+  type: int
+- name: Card Pictos Menu 2
+  save_key: CARD_PictosMenu_2
+  category: pictos.pictos
+  type: int
+- name: Card Pictos Menu 3
+  save_key: CARD_PictosMenu_3
+  category: pictos.pictos
+  type: int
+- name: Card Pictos Menu 4
+  save_key: CARD_PictosMenu_4
+  category: pictos.pictos
+  type: int
+- name: Card Qte
+  save_key: CARD_QTE
+  category: pictos.pictos
+  type: int
+- name: Card Sciel Apply Foretell
+  save_key: CARD_ScielApplyForetell
+  category: pictos.pictos
+  type: int
+- name: Card Sciel Consume Foretell
+  save_key: CARD_ScielConsumeForetell
+  category: pictos.pictos
+  type: int
+- name: Card Sciel Grim Prediction
+  save_key: CARD_ScielGrimPrediction
+  category: pictos.pictos
+  type: int
+- name: Card Sciel Twilight
+  save_key: CARD_ScielTwilight
+  category: pictos.pictos
+  type: int
+- name: Card Sciel Unique Mechanic
+  save_key: CARD_ScielUniqueMechanic
+  category: pictos.pictos
+  type: int
+- name: Card Sciel Unique Mechanic Battle
+  save_key: CARD_ScielUniqueMechanic_Battle
+  category: pictos.pictos
+  type: int
+- name: Card Second Parry
+  save_key: CARD_SecondParry
+  category: pictos.pictos
+  type: int
+- name: Card Shields
+  save_key: CARD_Shields
+  category: pictos.pictos
+  type: int
+- name: Card Skill Card
+  save_key: CARD_SkillCard
+  category: pictos.pictos
+  type: int
+- name: Card Skill Wheel
+  save_key: CARD_SkillWheel
+  category: pictos.pictos
+  type: int
+- name: Card Skill Wheel Basics
+  save_key: CARD_SkillWheel_Basics
+  category: pictos.pictos
+  type: int
+- name: Card Targeting
+  save_key: CARD_Targeting
+  category: pictos.pictos
+  type: int
+- name: Card Timeline
+  save_key: CARD_Timeline
+  category: pictos.pictos
+  type: int
+- name: Card Verso Unique Mechanic
+  save_key: CARD_VersoUniqueMechanic
+  category: pictos.pictos
+  type: int
+- name: Card Weapon Upgrade
+  save_key: CARD_WeaponUpgrade
+  category: pictos.pictos
+  type: int
+- name: Card Weapons
+  save_key: CARD_Weapons
+  category: pictos.pictos
+  type: int
+- name: Cheater
+  save_key: Cheater
+  category: pictos.pictos
+  type: int
+- name: Cleansing Tint
+  save_key: CleansingTint
+  category: pictos.pictos
+  type: int
+- name: Cleas Life
+  save_key: CleasLife
+  category: pictos.pictos
+  type: int
+- name: Confident
+  save_key: Confident
+  category: pictos.pictos
+  type: int
+- name: Confident Fighter
+  save_key: ConfidentFighter
+  category: pictos.pictos
+  type: int
+- name: Critical Break
+  save_key: CriticalBreak
+  category: pictos.pictos
+  type: int
+- name: Critical Moment
+  save_key: CriticalMoment
+  category: pictos.pictos
+  type: int
+- name: Dead Energy
+  save_key: DeadEnergy
+  category: pictos.pictos
+  type: int
+- name: Death Bomb Dark
+  save_key: DeathBombDark
+  category: pictos.pictos
+  type: int
+- name: Death Bomb Earth
+  save_key: DeathBombEarth
+  category: pictos.pictos
+  type: int
+- name: Death Bomb Fire
+  save_key: DeathBombFire
+  category: pictos.pictos
+  type: int
+- name: Death Bomb Frozen
+  save_key: DeathBombFrozen
+  category: pictos.pictos
+  type: int
+- name: Death Bomb Light
+  save_key: DeathBombLight
+  category: pictos.pictos
+  type: int
+- name: Death Bomb Physical
+  save_key: DeathBombPhysical
+  category: pictos.pictos
+  type: int
+- name: Death Bomb Thunder
+  save_key: DeathBombThunder
+  category: pictos.pictos
+  type: int
+- name: Death Bomb Void
+  save_key: DeathBombVoid
+  category: pictos.pictos
+  type: int
+- name: Defense Breaker Dodge
+  save_key: DefenseBreakerDodge
+  category: pictos.pictos
+  type: int
+- name: Defensive Mode
+  save_key: DefensiveMode
+  category: pictos.pictos
+  type: int
+- name: Dodger
+  save_key: Dodger
+  category: pictos.pictos
+  type: int
+- name: Double Burn
+  save_key: DoubleBurn
+  category: pictos.pictos
+  type: int
+- name: Double Mark
+  save_key: DoubleMark
+  category: pictos.pictos
+  type: int
+- name: Effective Heal
+  save_key: EffectiveHeal
+  category: pictos.pictos
+  type: int
+- name: Energy
+  save_key: Energy
+  category: pictos.pictos
+  type: int
+- name: Faster Than Strong
+  save_key: FasterThanStrong
+  category: pictos.pictos
+  type: int
+- name: First Offensive
+  save_key: FirstOffensive
+  category: pictos.pictos
+  type: int
+- name: First Strike
+  save_key: FirstStrike
+  category: pictos.pictos
+  type: int
+- name: Glass Canon
+  save_key: GlassCanon
+  category: pictos.pictos
+  type: int
+- name: Gradient Break
+  save_key: GradientBreak
+  category: pictos.pictos
+  type: int
+- name: Gradient Breaker
+  save_key: GradientBreaker
+  category: pictos.pictos
+  type: int
+- name: Gradient Fighter
+  save_key: GradientFighter
+  category: pictos.pictos
+  type: int
+- name: Greater Powerful
+  save_key: GreaterPowerful
+  category: pictos.pictos
+  type: int
+- name: Greater Powerless
+  save_key: GreaterPowerless
+  category: pictos.pictos
+  type: int
+- name: Greater Shell
+  save_key: GreaterShell
+  category: pictos.pictos
+  type: int
+- name: Greater Slow
+  save_key: GreaterSlow
+  category: pictos.pictos
+  type: int
+- name: Healing Counter
+  save_key: HealingCounter
+  category: pictos.pictos
+  type: int
+- name: Healing Death
+  save_key: HealingDeath
+  category: pictos.pictos
+  type: int
+- name: Healing Fire
+  save_key: HealingFire
+  category: pictos.pictos
+  type: int
+- name: Healing Mark
+  save_key: HealingMark
+  category: pictos.pictos
+  type: int
+- name: Healing Parry
+  save_key: HealingParry
+  category: pictos.pictos
+  type: int
+- name: Healing Share
+  save_key: HealingShare
+  category: pictos.pictos
+  type: int
+- name: Healing Stun
+  save_key: HealingStun
+  category: pictos.pictos
+  type: int
+- name: Healing Tint Energy
+  save_key: HealingTintEnergy
+  category: pictos.pictos
+  type: int
+- name: Immaculate
+  save_key: Immaculate
+  category: pictos.pictos
+  type: int
+- name: In Medias Res
+  save_key: InMediasRes
+  category: pictos.pictos
+  type: int
+- name: Inspired Painter
+  save_key: InspiredPainter
+  category: pictos.pictos
+  type: int
+- name: Inverted Affinity
+  save_key: InvertedAffinity
+  category: pictos.pictos
+  type: int
+- name: Jump Recovery
+  save_key: JumpRecovery
+  category: pictos.pictos
+  type: int
+- name: Last Stand
+  save_key: LastStand
+  category: pictos.pictos
+  type: int
+- name: Last Stand Critical
+  save_key: LastStandCritical
+  category: pictos.pictos
+  type: int
+- name: Longer Powerful
+  save_key: LongerPowerful
+  category: pictos.pictos
+  type: int
+- name: Longer Rush
+  save_key: LongerRush
+  category: pictos.pictos
+  type: int
+- name: Longer Shell
+  save_key: LongerShell
+  category: pictos.pictos
+  type: int
+- name: Over Confident
+  save_key: OverConfident
+  category: pictos.pictos
+  type: int
+- name: Painter
+  save_key: Painter
+  category: pictos.pictos
+  type: int
+- name: Piercing Shot
+  save_key: PiercingShot
+  category: pictos.pictos
+  type: int
+- name: Power Breaker Dodge
+  save_key: PowerBreakerDodge
+  category: pictos.pictos
+  type: int
+- name: Power Breaker Shot
+  save_key: PowerBreakerShot
+  category: pictos.pictos
+  type: int
+- name: Powerful Heal
+  save_key: PowerfulHeal
+  category: pictos.pictos
+  type: int
+- name: Powerful Mark
+  save_key: PowerfulMark
+  category: pictos.pictos
+  type: int
+- name: Powerful On Shell
+  save_key: PowerfulOnShell
+  category: pictos.pictos
+  type: int
+- name: Powerful Shield
+  save_key: PowerfulShield
+  category: pictos.pictos
+  type: int
+- name: Pro Retreat
+  save_key: ProRetreat
+  category: pictos.pictos
+  type: int
+- name: Protecting Death
+  save_key: ProtectingDeath
+  category: pictos.pictos
+  type: int
+- name: Protecting Heal
+  save_key: ProtectingHeal
+  category: pictos.pictos
+  type: int
+- name: Quest Apprentices Journal
+  save_key: Quest_ApprenticesJournal
+  category: pictos.pictos
+  type: int
+- name: Quest Bourgeon Skin
+  save_key: Quest_BourgeonSkin
+  category: pictos.pictos
+  type: int
+- name: Quest Chromatic Ink
+  save_key: Quest_ChromaticInk
+  category: pictos.pictos
+  type: int
+- name: Quest Clea Workshop Part1
+  save_key: Quest_CleaWorkshop_Part1
+  category: pictos.pictos
+  type: int
+- name: Quest Clea Workshop Part2
+  save_key: Quest_CleaWorkshop_Part2
+  category: pictos.pictos
+  type: int
+- name: Quest Clea Workshop Part3
+  save_key: Quest_CleaWorkshop_Part3
+  category: pictos.pictos
+  type: int
+- name: Quest Eternal Ice
+  save_key: Quest_EternalIce
+  category: pictos.pictos
+  type: int
+- name: Quest Flowerfor Sophie
+  save_key: Quest_FlowerforSophie
+  category: pictos.pictos
+  type: int
+- name: Quest Hexga Rock
+  save_key: Quest_HexgaRock
+  category: pictos.pictos
+  type: int
+- name: Quest Maelle Gustave Unlock
+  save_key: Quest_MaelleGustaveUnlock
+  category: pictos.pictos
+  type: int
+- name: Quest Maelle Painter Skills Unlock
+  save_key: Quest_MaellePainterSkillsUnlock
+  category: pictos.pictos
+  type: int
+- name: Quest Manor Family Canvas
+  save_key: Quest_ManorFamilyCanvas
+  category: pictos.pictos
+  type: int
+- name: Quest Mine
+  save_key: Quest_Mine
+  category: pictos.pictos
+  type: int
+- name: Quest Molten Heart
+  save_key: Quest_MoltenHeart
+  category: pictos.pictos
+  type: int
+- name: Quest Mushroom
+  save_key: Quest_Mushroom
+  category: pictos.pictos
+  type: int
+- name: Quest Old Key
+  save_key: Quest_OldKey
+  category: pictos.pictos
+  type: int
+- name: Quest Resin
+  save_key: Quest_Resin
+  category: pictos.pictos
+  type: int
+- name: Quest Station Key
+  save_key: Quest_StationKey
+  category: pictos.pictos
+  type: int
+- name: Quest Uniform For Son
+  save_key: Quest_UniformForSon
+  category: pictos.pictos
+  type: int
+- name: Quest Weird Pictos
+  save_key: Quest_WeirdPictos
+  category: pictos.pictos
+  type: int
+- name: Quest Wood Boards
+  save_key: Quest_WoodBoards
+  category: pictos.pictos
+  type: int
+- name: Quest Wooden Stick
+  save_key: Quest_WoodenStick
+  category: pictos.pictos
+  type: int
+- name: Random Defense
+  save_key: RandomDefense
+  category: pictos.pictos
+  type: int
+- name: Recovery
+  save_key: Recovery
+  category: pictos.pictos
+  type: int
+- name: Revive Paradox
+  save_key: ReviveParadox
+  category: pictos.pictos
+  type: int
+- name: Revive Tint Energy
+  save_key: ReviveTintEnergy
+  category: pictos.pictos
+  type: int
+- name: Rewarding Mark
+  save_key: RewardingMark
+  category: pictos.pictos
+  type: int
+- name: Roulette
+  save_key: Roulette
+  category: pictos.pictos
+  type: int
+- name: Rush On Powerful
+  save_key: RushOnPowerful
+  category: pictos.pictos
+  type: int
+- name: Second Chance
+  save_key: SecondChance
+  category: pictos.pictos
+  type: int
+- name: Shared Care
+  save_key: SharedCare
+  category: pictos.pictos
+  type: int
+- name: Shell On Rush
+  save_key: ShellOnRush
+  category: pictos.pictos
+  type: int
+- name: Shield Affinity
+  save_key: ShieldAffinity
+  category: pictos.pictos
+  type: int
+- name: Shield Breaker
+  save_key: ShieldBreaker
+  category: pictos.pictos
+  type: int
+- name: Shielding Death
+  save_key: ShieldingDeath
+  category: pictos.pictos
+  type: int
+- name: Shielding Tint
+  save_key: ShieldingTint
+  category: pictos.pictos
+  type: int
+- name: Shortcut
+  save_key: Shortcut
+  category: pictos.pictos
+  type: int
+- name: Simple Breaker
+  save_key: SimpleBreaker
+  category: pictos.pictos
+  type: int
+- name: Sniper
+  save_key: Sniper
+  category: pictos.pictos
+  type: int
+- name: Sniper Wolf
+  save_key: SniperWolf
+  category: pictos.pictos
+  type: int
+- name: Solidifying
+  save_key: Solidifying
+  category: pictos.pictos
+  type: int
+- name: Solidifying Meditation
+  save_key: SolidifyingMeditation
+  category: pictos.pictos
+  type: int
+- name: Solo Fighter
+  save_key: SoloFighter
+  category: pictos.pictos
+  type: int
+- name: Sos Power
+  save_key: SosPower
+  category: pictos.pictos
+  type: int
+- name: Sos Rush
+  save_key: SosRush
+  category: pictos.pictos
+  type: int
+- name: Sos Shell
+  save_key: SosShell
+  category: pictos.pictos
+  type: int
+- name: Stand
+  save_key: Stand
+  category: pictos.pictos
+  type: int
+- name: Stay Marked
+  save_key: StayMarked
+  category: pictos.pictos
+  type: int
+- name: Stun Boost
+  save_key: StunBoost
+  category: pictos.pictos
+  type: int
+- name: Survivor
+  save_key: Survivor
+  category: pictos.pictos
+  type: int
+- name: Sweet Kill
+  save_key: SweetKill
+  category: pictos.pictos
+  type: int
+- name: Tainted
+  save_key: Tainted
+  category: pictos.pictos
+  type: int
+- name: Teamwork
+  save_key: Teamwork
+  category: pictos.pictos
+  type: int
+- name: The One
+  save_key: TheOne
+  category: pictos.pictos
+  type: int
+- name: Time Tint
+  save_key: TimeTint
+  category: pictos.pictos
+  type: int
+- name: Versatile
+  save_key: Versatile
+  category: pictos.pictos
+  type: int
+- name: Versatile Healer
+  save_key: VersatileHealer
+  category: pictos.pictos
+  type: int
+- name: Warming
+  save_key: Warming
+  category: pictos.pictos
+  type: int
+- name: Weakness Gain
+  save_key: WeaknessGain
+  category: pictos.pictos
+  type: int
